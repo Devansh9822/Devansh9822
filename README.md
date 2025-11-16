@@ -1,6 +1,5 @@
 #  Hello, I'm Devansh
- Mechanical Engineering @ RVCE,Bangalore | Aspiring Robotics and Automation Engineer  
-
+ Mechanical Engineering @ RVCE,Bangalore | Aspiring Mechatronics & Robotics Engineer
 # SKILLS
  Currently learning softwares like : C++, SOLIDWORKS , ANSYS , ARDUINO IDE and trying to achieve mastery in them.
 
